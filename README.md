@@ -1,4 +1,4 @@
-# Planejamento de Cinturão Verde Urbano-Industrial — Aveiro
+# Planejamento de Cinturão Verde Urbano: Industrial em Aveiro
 
 ## 1. Objetivo do Projeto
 
